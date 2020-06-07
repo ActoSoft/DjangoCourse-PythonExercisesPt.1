@@ -4,7 +4,7 @@
 2. Clona el repositorio creado en tu perfil.
 3. Realiza los ejercicios propuestos con el nombre del archivo específicado en cada uno. Deberás de verificar que cumplen con lo solicitado, además de utilizar buenas prácticas.
 4. Una vez que termines los archivos, sube tus cambios a tu cuenta personal de Github.
-5. Posteriomente, haz un fork de tu cuenta personal a este repositorio, agregando como reviewer al instructor.
+5. Posteriomente, haz un Pull Request de tu cuenta personal a este repositorio, agregando como reviewer al instructor.
 
 # Ejercicios Propuestos
 
